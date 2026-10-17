@@ -1,0 +1,6 @@
+{ 
+    "python.analysis.extraPaths": ["./src"], 
+    "python.terminal.activateEnvironment": true, 
+    "editor.rulers": [88], 
+    "files.encoding": "utf8" 
+}
